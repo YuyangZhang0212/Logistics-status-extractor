@@ -1,0 +1,2 @@
+﻿block_id,case_type,field,expected,got,needs_review,ai_description,ai_history_issue
+20,clean,status,delivery_failed,exception,no,Unable to deliver due to incorrect or incomplete address in BRUNSWICK VIC.,

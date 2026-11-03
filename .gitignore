@@ -1,0 +1,11 @@
+# Secrets - never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Real (non-fictional) data - keep it off GitHub
+data/real/

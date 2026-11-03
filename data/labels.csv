@@ -1,0 +1,49 @@
+block_id,tracking_number,carrier,latest_event_time,status,has_history_issue,alert_level,case_type
+1,771245803101,FedEx,2025-12-19 21:05:12,in_transit,no,none,clean
+2,771245803102,FedEx,2025-12-20 05:30:00,out_for_delivery,no,none,clean
+3,771245803103,FedEx,2025-12-20 13:47:00,delivered,no,none,clean
+4,1Z7Q4W2E0312345671,UPS,2025-12-19 02:41:00,in_transit,no,none,clean
+5,1Z7Q4W2E0312345672,UPS,2025-12-20 15:02:00,delivered,no,none,clean
+6,9400111899223300112201,USPS,2025-12-21 07:12:00,out_for_delivery,no,none,clean
+7,9400111899223300112202,USPS,2025-12-21 12:33:00,delivered,no,none,clean
+8,4829103301,DHL,2025-12-18 22:45:00,in_transit,no,none,clean
+9,4829103302,DHL,2025-12-21 11:05:00,delivered,no,none,clean
+10,33QWE5501020001,Australia Post,2025-12-20 23:35:00,in_transit,no,none,clean
+11,33QWE5501020002,Australia Post,2025-12-21 10:18:00,awaiting_pickup,no,none,clean
+12,771245803112,FedEx,2025-12-22 11:26:00,awaiting_pickup,no,none,clean
+13,771245803113,FedEx,2025-12-22 14:02:00,info_received,no,none,clean
+14,771245803114,FedEx,,not_found,no,high,no_events
+15,771245803115,FedEx,2025-12-22 17:44:00,delivery_failed,no,high,clean
+16,9400111899223300112216,USPS,2025-12-22 16:05:00,delivery_failed,no,high,clean
+17,4829103317,DHL,2025-12-18 09:32:00,exception,no,high,clean
+18,1Z7Q4W2E0312345688,UPS,2025-12-20 13:15:00,exception,yes,high,clean
+19,771245803119,FedEx,2025-12-20 04:50:00,exception,no,high,clean
+20,33QWE5501020020,Australia Post,2025-12-21 13:40:00,delivery_failed,no,high,clean
+21,771245803121,FedEx,2025-12-20 14:22:00,delivered,no,none,out_of_order
+22,1Z7Q4W2E0312345622,UPS,2025-12-21 07:55:00,out_for_delivery,no,none,out_of_order
+23,771245803123,FedEx,2025-12-21 20:12:00,in_transit,no,none,number_format
+24,1Z7Q4W2E0312345624,UPS,2025-12-21 12:00:00,in_transit,no,none,number_format
+25,771245803125,FedEx,2025-12-21 22:05:00,in_transit,no,none,missing_carrier_inferable
+26,550012873326,,2025-12-21 22:05:00,in_transit,no,none,missing_carrier_unknown
+27,,FedEx,2025-12-22 12:10:00,delivered,no,none,missing_number
+28,SF1408823300128,SF Express,2025-12-21 14:05:00,delivered,no,none,chinese_text
+29,33QWE5501020029,Australia Post,2025-12-21 09:12:00,out_for_delivery,no,none,mixed_language
+30,1Z7Q4W2E0312345630,UPS,2025-12-21 15:45:00,delivered,no,none,time_format
+31,4829103331,DHL,2025-12-22 08:05:00,in_transit,no,none,time_format
+32,771245803132,FedEx,2025-12-22 11:58:00,delivered,no,none,platform_conflict
+33,771245803133,FedEx,2025-12-22 18:20:00,delivery_failed,no,high,platform_conflict
+34,771245803134,FedEx,2025-12-22 10:10:00,in_transit,no,none,carrier_typo
+35,771245803135,FedEx,2025-12-21 15:30:00,in_transit,no,none,noise_lines
+36,771245803136,FedEx,2025-12-22 09:20:00,in_transit,no,none,two_numbers
+37,1Z7Q4W2E0312345637,UPS,2025-12-22 13:13:00,delivered,no,none,duplicate_events
+38,771245803138,FedEx,2025-12-22 07:30:00,in_transit,no,none,ambiguous_delay
+39,771245803139,FedEx,2025-12-23 00:00:00,in_transit,no,none,midnight_time
+40,4829103340,DHL,2026-01-01 08:10:00,delivered,no,none,year_boundary
+41,0079350011112200001141,CTT Express,2025-12-21 16:40:00,cancelled,no,high,cancelled_spanish
+42,1ZR9X0000300000042,UPS,2025-12-22 09:45:23,exception,no,high,investigation
+43,490500000043,FedEx,2025-12-22 05:15:00,in_transit,yes,low,recovered_history
+44,GFUS01000000000044,GOFO,2025-12-22 06:05:00,in_transit,yes,low,recovered_history
+45,UUS5XX0000000000045,UniUni,,not_found,no,high,no_events
+46,TBA000000000046,Amazon Shipping,,not_found,no,high,empty_status
+47,9400111899223300112247,USPS,2025-12-16 21:40:00,in_transit,no,high,stuck
+48,490500000048,FedEx,2025-12-21 14:30:00,delivered,yes,none,recovered_history

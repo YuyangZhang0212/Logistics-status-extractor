@@ -1,0 +1,390 @@
+单号：771245803101
+物流商：FedEx
+包裹状态：运输途中 · 2天
+国家：美国->美国
+2025-12-19 21:05:12 Left FedEx origin facility ALLENTOWN, PA, US
+2025-12-19 18:40:00 Arrived at FedEx location ALLENTOWN, PA, US
+2025-12-19 00:00:00 Picked up ALLENTOWN, PA, US
+2025-12-18 13:08:00 Shipment information sent to FedEx US
+==========================================
+
+单号：771245803102
+物流商：FedEx
+包裹状态：到达待取 · 2天
+国家：美国->美国
+2025-12-20 05:30:00 On FedEx vehicle for delivery SPRINGFIELD, MA, US
+2025-12-20 04:58:00 At local FedEx facility SPRINGFIELD, MA, US
+2025-12-19 21:10:00 Left FedEx origin facility ALLENTOWN, PA, US
+=====
+
+单号：771245803103
+物流商：FedEx
+包裹状态：成功签收 · 3天
+国家：美国->美国
+2025-12-20 13:47:00 Delivered SPRINGFIELD, MA, US
+2025-12-20 05:30:00 On FedEx vehicle for delivery SPRINGFIELD, MA, US
+==============
+
+单号：1Z7Q4W2E0312345671
+物流商：UPS
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-19 02:41:00 Departed from Facility LOUISVILLE, KY, US
+2025-12-18 19:22:00 Arrived at Facility LOUISVILLE, KY, US
+2025-12-17 09:00:00 Shipper created a label, UPS has not received the package yet.
+==========================================
+
+单号：1Z7Q4W2E0312345672
+物流商：UPS
+包裹状态：成功签收 · 4天
+国家：美国->美国
+2025-12-20 15:02:00 DELIVERED Front Door COLUMBUS, OH, US
+2025-12-20 08:15:00 Out For Delivery Today COLUMBUS, OH, US
+=====
+
+单号：9400111899223300112201
+物流商：USPS
+包裹状态：到达待取 · 3天
+国家：美国->美国
+2025-12-21 07:12:00 Out for Delivery BROOKLYN, NY 11201
+2025-12-21 05:50:00 Arrived at Post Office BROOKLYN, NY 11201
+==============
+
+单号：9400111899223300112202
+物流商：USPS
+包裹状态：成功签收 · 4天
+国家：美国->美国
+2025-12-21 12:33:00 Delivered, In/At Mailbox QUEENS, NY 11101
+2025-12-21 07:12:00 Out for Delivery QUEENS, NY 11101
+==========================================
+
+单号：4829103301
+物流商：DHL
+包裹状态：运输途中 · 5天
+国家：德国->澳大利亚
+2025-12-18 22:45:00 Shipment is in transit to destination SINGAPORE
+2025-12-17 03:20:00 Departed Facility in LEIPZIG - GERMANY
+2025-12-16 10:00:00 Shipment picked up LEIPZIG - GERMANY
+=====
+
+单号：4829103302
+物流商：DHL
+包裹状态：成功签收 · 6天
+国家：德国->澳大利亚
+2025-12-21 11:05:00 Delivered - Signed for by: J SMITH SYDNEY - AUSTRALIA
+2025-12-21 07:40:00 Shipment is out with courier for delivery SYDNEY - AUSTRALIA
+==============
+
+单号：33QWE5501020001
+物流商：Australia Post
+包裹状态：运输途中 · 2天
+国家：澳大利亚->澳大利亚
+2025-12-20 23:35:00 In transit to next facility in SYDNEY NSW
+2025-12-20 09:10:00 Received and ready for processing CHULLORA NSW
+2025-12-19 16:20:00 Shipping information received by Australia Post
+==========================================
+
+单号：33QWE5501020002
+物流商：Australia Post
+包裹状态：到达待取 · 3天
+国家：澳大利亚->澳大利亚
+2025-12-21 10:18:00 Awaiting collection at Parcel Locker PARRAMATTA NSW
+2025-12-21 06:30:00 Onboard for delivery PARRAMATTA NSW
+=====
+
+单号：771245803112
+物流商：FedEx
+包裹状态：到达待取 · 4天
+国家：美国->美国
+2025-12-22 11:26:00 Ready for pickup at FedEx retail location AUSTIN, TX, US
+2025-12-22 08:00:00 At local FedEx facility AUSTIN, TX, US
+==============
+
+单号：771245803113
+物流商：FedEx
+包裹状态：运输途中 · 1天
+国家：美国->美国
+2025-12-22 14:02:00 Shipment information sent to FedEx US
+==========================================
+
+单号：771245803114
+物流商：FedEx
+包裹状态：查询不到
+国家：美国->美国
+=====
+
+单号：771245803115
+物流商：FedEx
+包裹状态：投递失败 · 5天
+国家：美国->美国
+2025-12-22 17:44:00 Delivery exception Customer not available or business closed DENVER, CO, US
+2025-12-22 06:10:00 On FedEx vehicle for delivery DENVER, CO, US
+==============
+
+单号：9400111899223300112216
+物流商：USPS
+包裹状态：投递失败 · 5天
+国家：美国->美国
+2025-12-22 16:05:00 Notice Left (No Authorized Recipient Available) BOSTON, MA 02118
+2025-12-22 07:00:00 Out for Delivery BOSTON, MA 02118
+==========================================
+
+单号：4829103317
+物流商：DHL
+包裹状态：可能异常 · 7天
+国家：中国->澳大利亚
+2025-12-18 09:32:00 Clearance delay - Import SYDNEY - AUSTRALIA
+2025-12-18 05:00:00 Arrived at DHL Sort Facility SYDNEY - AUSTRALIA
+=====
+
+单号：1Z7Q4W2E0312345688
+物流商：UPS
+包裹状态：可能异常 · 9天
+国家：美国->美国
+2025-12-20 13:15:00 Returning to sender: The receiver has moved PHOENIX, AZ, US
+2025-12-19 10:00:00 The receiver has moved. We're attempting to obtain a new delivery address.
+==============
+
+单号：771245803119
+物流商：FedEx
+包裹状态：可能异常 · 6天
+国家：美国->美国
+2025-12-20 04:50:00 Shipment exception Package damaged MEMPHIS, TN, US
+2025-12-20 02:00:00 Arrived at FedEx hub MEMPHIS, TN, US
+==========================================
+
+单号：33QWE5501020020
+物流商：Australia Post
+包裹状态：可能异常 · 6天
+国家：澳大利亚->澳大利亚
+2025-12-21 13:40:00 Unable to deliver - incorrect or incomplete address BRUNSWICK VIC
+2025-12-21 07:00:00 Onboard for delivery BRUNSWICK VIC
+=====
+
+单号：771245803121
+物流商：FedEx
+包裹状态：成功签收 · 4天
+国家：美国->美国
+2025-12-20 03:40:00 At local FedEx facility SACRAMENTO, CA, US
+2025-12-20 06:15:00 On FedEx vehicle for delivery SACRAMENTO, CA, US
+2025-12-19 21:00:00 Left FedEx origin facility RENO, NV, US
+2025-12-20 14:22:00 Delivered SACRAMENTO, CA, US
+==============
+
+单号：1Z7Q4W2E0312345622
+物流商：UPS
+包裹状态：到达待取 · 3天
+国家：美国->美国
+2025-12-21 01:10:00 Arrived at Facility DALLAS, TX, US
+2025-12-20 18:30:00 Departed from Facility HOUSTON, TX, US
+2025-12-21 07:55:00 Out For Delivery Today DALLAS, TX, US
+==========================================
+
+单号：7712 4580 3123
+物流商：FedEx
+包裹状态：运输途中 · 2天
+国家：美国->美国
+2025-12-21 20:12:00 Left FedEx origin facility SEATTLE, WA, US
+2025-12-21 09:00:00 Picked up SEATTLE, WA, US
+=====
+
+单号：1z7q4w2e-0312-3456-24
+物流商：UPS
+包裹状态：运输途中 · 2天
+国家：美国->美国
+2025-12-21 12:00:00 Arrived at Facility ATLANTA, GA, US
+==============
+
+单号：771245803125
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-21 22:05:00 Departed FedEx location NEWARK, NJ, US
+2025-12-21 10:30:00 Arrived at FedEx location NEWARK, NJ, US
+==========================================
+
+单号：550012873326
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-21 22:05:00 Departed sort facility
+2025-12-21 10:30:00 Arrived at sort facility
+=====
+
+物流商：FedEx
+包裹状态：成功签收 · 3天
+国家：美国->美国
+2025-12-22 12:10:00 Delivered ORLANDO, FL, US
+2025-12-22 07:00:00 On FedEx vehicle for delivery ORLANDO, FL, US
+==============
+
+单号：SF1408823300128
+物流商：顺丰速运
+包裹状态：成功签收 · 2天
+国家：中国->中国
+2025-12-21 14:05:00 【深圳市】已签收，签收人：前台代收
+2025-12-21 09:30:00 【深圳市】快件交给快递员，正在派送途中
+2025-12-20 08:12:00 【深圳市】快件已发车，下一站【深圳宝安中转场】
+==========================================
+
+单号：33QWE5501020029
+物流商：Australia Post
+包裹状态：到达待取 · 2天
+国家：澳大利亚->澳大利亚
+2025-12-21 09:12:00 派送中 Onboard for delivery MELBOURNE VIC
+2025-12-21 02:15:00 已到达 MELBOURNE VIC 转运中心 Arrived at facility
+=====
+
+单号：1Z7Q4W2E0312345630
+物流商：UPS
+包裹状态：成功签收 · 3天
+国家：美国->美国
+12/21/2025 03:45 PM DELIVERED Front Desk/Reception CHARLOTTE, NC, US
+12/21/2025 08:05 AM Out For Delivery Today CHARLOTTE, NC, US
+==============
+
+单号：4829103331
+物流商：DHL
+包裹状态：运输途中 · 4天
+国家：英国->澳大利亚
+2025/12/22 08:05 Arrived at DHL Sort Facility DUBAI - UAE
+2025/12/21 23:50 Departed Facility in EAST MIDLANDS - UK
+==========================================
+
+单号：771245803132
+物流商：FedEx
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-22 11:58:00 Delivered PORTLAND, OR, US
+2025-12-22 06:40:00 On FedEx vehicle for delivery PORTLAND, OR, US
+=====
+
+单号：771245803133
+物流商：FedEx
+包裹状态：成功签收 · 4天
+国家：美国->美国
+2025-12-22 18:20:00 Delivery exception Incorrect address SALEM, OR, US
+2025-12-22 06:40:00 On FedEx vehicle for delivery SALEM, OR, US
+==============
+
+单号：771245803134
+物流商：Fedx
+包裹状态：运输途中 · 2天
+国家：美国->美国
+2025-12-22 10:10:00 Arrived at FedEx location OAKLAND, CA, US
+==========================================
+
+单号：771245803135
+物流商：FedEx
+包裹状态：运输途中 · 6天
+国家：美国->美国
+备注：客户已催单 3 次，请优先处理
+客服：Amy（虚构）
+2025-12-21 15:30:00 In transit NASHVILLE, TN, US
+2025-12-20 22:00:00 Departed FedEx hub MEMPHIS, TN, US
+=====
+
+单号：771245803136（转单号：9400111899223300112236）
+物流商：FedEx
+包裹状态：运输途中 · 5天
+国家：美国->美国
+2025-12-22 09:20:00 Tendered to USPS for final delivery TOLEDO, OH, US
+2025-12-21 08:00:00 Departed FedEx hub INDIANAPOLIS, IN, US
+==============
+
+单号：1Z7Q4W2E0312345637
+物流商：UPS
+包裹状态：成功签收 · 3天
+国家：美国->美国
+2025-12-22 13:13:00 DELIVERED Front Door TAMPA, FL, US
+2025-12-22 13:13:00 DELIVERED Front Door TAMPA, FL, US
+2025-12-22 08:00:00 Out For Delivery Today TAMPA, FL, US
+==========================================
+
+单号：771245803138
+物流商：FedEx
+包裹状态：可能异常 · 5天
+国家：美国->美国
+2025-12-22 07:30:00 Delay Severe weather conditions have delayed delivery MINNEAPOLIS, MN, US
+2025-12-21 23:00:00 Departed FedEx hub MEMPHIS, TN, US
+=====
+
+单号：771245803139
+物流商：FedEx
+包裹状态：运输途中 · 1天
+国家：美国->美国
+2025-12-23 00:00:00 Picked up TRENTON, NJ, US
+2025-12-22 13:08:00 Shipment information sent to FedEx US
+==============
+
+单号：4829103340
+物流商：DHL
+包裹状态：成功签收 · 5天
+国家：新西兰->澳大利亚
+2025-12-31 23:50:00 Shipment is out with courier for delivery BRISBANE - AUSTRALIA
+2025-12-31 04:00:00 Arrived at DHL Delivery Facility BRISBANE - AUSTRALIA
+2026-01-01 08:10:00 Delivered - Signed for by: K LEE BRISBANE - AUSTRALIA
+==========================================
+
+单号：0079350011112200001141
+物流商：CTT Express
+包裹状态：运输途中 · 2天
+国家：西班牙->西班牙
+2025-12-21 16:40:00 Envío anulado
+2025-12-20 10:15:00 Envío admitido MADRID
+=====
+
+单号：1ZR9X0000300000042
+物流商：UPS
+包裹状态：可能异常 · 0天
+国家：美国->美国
+2025-12-22 09:45:23 We've begun an investigation to locate the package.
+2025-12-21 18:00:00 Departed from Facility CHICAGO, IL, US
+==============
+
+单号：490500000043
+物流商：FedEx
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-22 05:15:00 Departed FedEx hub MEMPHIS, TN, US
+2025-12-21 02:30:00 Shipment exception, Barcode label unreadable and replaced MEMPHIS, TN, US
+2025-12-20 22:10:00 Arrived at FedEx hub MEMPHIS, TN, US
+==========================================
+
+单号：GFUS01000000000044
+物流商：GOFO
+包裹状态：运输途中 · 3天
+国家：美国->美国
+2025-12-22 06:05:00 Arrived at sorting center LOS ANGELES, CA
+2025-12-21 17:20:00 Pick up Success
+2025-12-21 09:00:00 Pickup Exception, GOFO has not Received the Package from the Warehouse yet
+2025-12-20 09:00:00 Pickup Exception, GOFO has not Received the Package from the Warehouse yet
+=====
+
+单号：UUS5XX0000000000045
+物流商：UniUni
+包裹状态：查询不到
+国家：美国->美国
+==============
+
+单号：TBA000000000046
+物流商：Amazon Shipping + Amazon MCF
+包裹状态：· 0天
+国家：美国->美国
+==========================================
+
+单号：9400111899223300112247
+物流商：USPS
+包裹状态：运输途中 · 7天
+国家：美国->美国
+2025-12-16 21:40:00 In Transit to Next Facility
+2025-12-15 08:00:00 Accepted at USPS Origin Facility RENO, NV 89501
+=====
+
+单号：490500000048
+物流商：FedEx
+包裹状态：成功签收 · 4天
+国家：美国->美国
+2025-12-21 14:30:00 Delivered NEWARK, NJ, US
+2025-12-21 07:10:00 On FedEx vehicle for delivery NEWARK, NJ, US
+2025-12-20 03:00:00 Shipment exception, Barcode label unreadable and replaced NEWARK, NJ, US
+==============
+

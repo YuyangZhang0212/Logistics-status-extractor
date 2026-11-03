@@ -1,0 +1,14 @@
+﻿tracking_number,carrier,status,latest_event_time,description,alert_reason,action
+771245803114,FedEx,not_found,,No tracking events found.,status not_found,Check parcel was handed to carrier; contact warehouse
+771245803115,FedEx,delivery_failed,2025-12-22 17:44:00,"Delivery exception: Customer not available or business closed in DENVER, CO, US.",status delivery_failed,Contact customer to confirm address and arrange redelivery or pickup
+9400111899223300112216,USPS,delivery_failed,2025-12-22 16:05:00,"Notice left, no authorized recipient available in BOSTON, MA.",status delivery_failed,Contact customer to confirm address and arrange redelivery or pickup
+4829103317,DHL,exception,2025-12-18 09:32:00,Clearance delay - Import in SYDNEY - AUSTRALIA.,status exception,"Check with carrier (damage, loss, customs or return); update customer"
+1Z7Q4W2E0312345688,UPS,exception,2025-12-20 13:15:00,"Returning to sender: The receiver has moved in PHOENIX, AZ, US.",status exception,"Check with carrier (damage, loss, customs or return); update customer"
+771245803119,FedEx,exception,2025-12-20 04:50:00,"Shipment exception: Package damaged in MEMPHIS, TN, US.",status exception,"Check with carrier (damage, loss, customs or return); update customer"
+33QWE5501020020,Australia Post,exception,2025-12-21 13:40:00,Unable to deliver due to incorrect or incomplete address in BRUNSWICK VIC.,status exception,"Check with carrier (damage, loss, customs or return); update customer"
+771245803133,FedEx,delivery_failed,2025-12-22 18:20:00,"Delivery exception due to incorrect address in SALEM, OR, US",status delivery_failed,Contact customer to confirm address and arrange redelivery or pickup
+0079350011112200001141,CTT Express,cancelled,2025-12-21 16:40:00,Shipment cancelled.,status cancelled,Confirm cancellation with warehouse; contact customer and reship if needed
+1ZR9X0000300000042,UPS,exception,2025-12-22 09:45:23,An investigation has begun to locate the package.,status exception,"Check with carrier (damage, loss, customs or return); update customer"
+UUS5XX0000000000045,UniUni,not_found,,,status not_found,Check parcel was handed to carrier; contact warehouse
+TBA000000000046,Amazon Shipping,not_found,,,status not_found,Check parcel was handed to carrier; contact warehouse
+9400111899223300112247,USPS,in_transit,2025-12-16 21:40:00,In transit to next facility.,no update for 6 days,Chase carrier for an update; let customer know about the delay
