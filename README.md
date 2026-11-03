@@ -59,7 +59,7 @@ Design choices:
 
 Model: `gemini-3.5-flash-lite`, temperature 0, 48 parcels, run on 3 Nov 2026. Full output is in [`output/`](output/).
 
-| Field | Run |
+| Field | Correct |
 |---|---|
 | tracking_number | 48/48 |
 | carrier | 48/48 |
@@ -69,13 +69,11 @@ Model: `gemini-3.5-flash-lite`, temperature 0, 48 parcels, run on 3 Nov 2026. Fu
 | alert_level | 48/48 |
 | **All fields correct** |  **47/48 (97.9%)** |
 
-\* Scored against the original answer key.
-
 The per-case breakdown is in [`output/eval_summary.md`](output/eval_summary.md) and every wrong field is listed in [`output/eval_errors.csv`](output/eval_errors.csv).
 
 ### Error analysis
 
-| Block | Event text | Expected | Run | Cause |
+| Block | Event text | Expected | Got | Cause |
 |---|---|---|---|---|
 | 20 | Onboard for delivery → "Unable to deliver - incorrect or incomplete address" | delivery_failed |  **exception** | Ambiguous wording |
 
